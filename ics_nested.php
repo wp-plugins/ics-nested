@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Nested image caption shortcode
-Plugin URI: 
+Plugin URI: https://github.com/tychay/ics_nested
 Description: Allows caption shortcode to have shortcodes
 Version: 1.0
 Author: tychay
